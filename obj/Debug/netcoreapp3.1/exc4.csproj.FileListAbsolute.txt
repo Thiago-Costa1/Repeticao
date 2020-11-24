@@ -1,0 +1,13 @@
+C:\Users\washi\Desktop\exc4\bin\Debug\netcoreapp3.1\exc4.exe
+C:\Users\washi\Desktop\exc4\bin\Debug\netcoreapp3.1\exc4.deps.json
+C:\Users\washi\Desktop\exc4\bin\Debug\netcoreapp3.1\exc4.runtimeconfig.json
+C:\Users\washi\Desktop\exc4\bin\Debug\netcoreapp3.1\exc4.runtimeconfig.dev.json
+C:\Users\washi\Desktop\exc4\bin\Debug\netcoreapp3.1\exc4.dll
+C:\Users\washi\Desktop\exc4\bin\Debug\netcoreapp3.1\exc4.pdb
+C:\Users\washi\Desktop\exc4\obj\Debug\netcoreapp3.1\exc4.csprojAssemblyReference.cache
+C:\Users\washi\Desktop\exc4\obj\Debug\netcoreapp3.1\exc4.AssemblyInfoInputs.cache
+C:\Users\washi\Desktop\exc4\obj\Debug\netcoreapp3.1\exc4.AssemblyInfo.cs
+C:\Users\washi\Desktop\exc4\obj\Debug\netcoreapp3.1\exc4.csproj.CoreCompileInputs.cache
+C:\Users\washi\Desktop\exc4\obj\Debug\netcoreapp3.1\exc4.dll
+C:\Users\washi\Desktop\exc4\obj\Debug\netcoreapp3.1\exc4.pdb
+C:\Users\washi\Desktop\exc4\obj\Debug\netcoreapp3.1\exc4.genruntimeconfig.cache
